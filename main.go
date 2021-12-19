@@ -10,4 +10,5 @@ func main() {
 	test := mathematics.Sub(20, 10)
 	fmt.Println(test)
 	fmt.Println("Just updated")
+	fmt.Println("Updated local code")
 }
