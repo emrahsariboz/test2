@@ -1,4 +1,4 @@
-package math
+package mathematics
 
 func Sub(x, y int) int {
 	return x - y
