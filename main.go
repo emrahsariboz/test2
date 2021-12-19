@@ -9,4 +9,5 @@ import (
 func main() {
 	test := mathematics.Sub(20, 10)
 	fmt.Println(test)
+	fmt.Println("Just updated")
 }
