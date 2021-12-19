@@ -2,8 +2,11 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/emrahsariboz/test2/mathematics"
 )
 
 func main() {
-	fmt.Println("Module is test2!!")
+	test := mathematics.Sub(20, 10)
+	fmt.Println(test)
 }
